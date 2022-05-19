@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Moisés A. Mejia Toro (Denaos) 
-- 💻 Developer
-- Colombian 💛❤️💙
+### Hi, I'm Moisés 👋💻
 
-<!---
-ItsDenaos/ItsDenaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```js
+  const Denaos = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, PHP, C++, Python, Java],
+  framework: [React, Angular, Spring]
+}
+```
