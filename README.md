@@ -14,9 +14,9 @@ I'm Moisés, a 21 years old developer from Soledad, Colombia.
 - :wrench: React, Angular, Spring
 - :art: HTML, CSS, Bootstrap
 - :floppy_disk: MySQL, MongoDB
--->
+- 
 ## Contact
-- [Denaos.dev](./)
-- [@](./) on Twitter
-- [@](./) on Instagram
-- [](./) on Discord
+- [Denaos.dev](https://Denaos.dev)
+- [@MejiaToro23](https://twitter.com/MejiaToro23) on Twitter
+- [@MejiaToro23](https://instagram.com/MejiaToro23) on Instagram
+- [ItsDenaos](./) on Discord
