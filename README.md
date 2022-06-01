@@ -16,6 +16,4 @@ I'm Moisés, a 21 years old developer from Soledad, Colombia.
 - :floppy_disk: MySQL, MongoDB
 
 ## Contact
-- [@MejiaToro23](https://twitter.com/MejiaToro23) on Twitter
-- [@MejiaToro23](https://instagram.com/MejiaToro23) on Instagram
-- [ItsDenaos](./) on Discord
+- [Moisés A. Mejía Toro](https://www.linkedin.com/in/mois%C3%A9s-a-mej%C3%ADa-toro-867800233/) on Linkedin
