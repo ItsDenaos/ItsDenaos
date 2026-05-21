@@ -1,5 +1,5 @@
 # Hi there👋
-I'm Moisés, a 21 years old developer from Soledad, Colombia.
+I'm Moisés, a developer from Colombia.
 
 ```js
   const Denaos = {
