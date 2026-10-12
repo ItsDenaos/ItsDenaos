@@ -61,10 +61,10 @@ const denaos = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denaos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denaos&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ItsDenaos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDenaos&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Denaos&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ItsDenaos&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -74,6 +74,9 @@ const denaos = {
 
 <a href="https://www.linkedin.com/in/mois%C3%A9s-a-mej%C3%ADa-toro-867800233/">
   <img src="https://img.shields.io/badge/LinkedIn-Moisés_A._Mejía_Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ItsDenaos">
+  <img src="https://img.shields.io/badge/GitHub-ItsDenaos-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <div align="center">
